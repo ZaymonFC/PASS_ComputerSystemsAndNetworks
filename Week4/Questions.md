@@ -1,0 +1,11 @@
+# Questions
+- What is a truth table?
+- Write the truth tables for AND, OR, NOT, NOR, NAND, XOR
+- What is DeMorgans Theorem?
+- What is a logic unit?
+- How does a selector work?
+- How does a decoder work?
+- What is a multiplexer?
+- How does a half adder work?
+- How does a full adder work?
+- How do we get the full adder to perform subtraction?
