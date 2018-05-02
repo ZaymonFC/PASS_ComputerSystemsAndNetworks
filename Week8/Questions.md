@@ -24,7 +24,7 @@
     - How many errors can you _detect_?
     - How man errors can you _fix_?
 20. What is a hamming code?
-21. For the following words (which have the hamming code parity bits), workout if the word has an error and attempt to dix it.
+21. For the following words (which have the hamming code parity bits), workout if the word has an error and attempt to fix it.
     - 010101100011
     - 111110001100
     - 000010001010
