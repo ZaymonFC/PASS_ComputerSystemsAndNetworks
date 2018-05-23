@@ -1,0 +1,24 @@
+Week 11 Questions (Week 10 content)
+
+- What does a network wide protocol do?
+- What things do you need to consider when you're connecting LANs together?
+- What are the responsibilities of the network layer?
+- What are the three levels of addressing?
+- What is the difference between a host ID and a network ID?
+- How many network and host ID's are there in each class of network (A,B,C)
+- How many class A networks are possible?
+- What is a sub-network?
+- Explain the process of bit masking (With an example)
+- What is the difference between circuit switching and packet switching?
+- What are the two types of packet switching?
+- What are 4 approaches to routing?
+- What things do you take into consideration when routing?
+- What are the responsibilities of the transport layer?
+- What is sequence control?
+- What is a good use case for UDP?
+- What are the responsibilities of the session layer?
+- Describe the process of symmetric encryption
+- What are the benefits of asymmetrical encryption?
+- What are the responsibilities of the application layer?
+- Compare fat and thin clients
+- What is the domain name system for?
